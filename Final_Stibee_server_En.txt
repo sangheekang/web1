@@ -1,0 +1,180 @@
+﻿<!DOCTYPE html><html>
+<head>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<meta charset="UTF-8">
+<style>
+@media only screen and (max-width:640px){
+	.stb-left-cell,
+	.stb-right-cell {max-wdith:100%!important;width:100%!important;}
+	.stb-left-cell img,
+	.stb-right-cell img {width: 100%;height: auto;}
+	.stb-left-cell > div {padding: 5px 10px!important;box-sizing: border-box;}
+	.stb-right-cell > div {padding: 5px 10px!important;box-sizing: border-box;}
+	.stb-cell-wrap {padding:0 0 0 0!important;}
+	.stb-cell-wrap > tr > td {padding:0 0!important;}
+	.stb-cell-wrap > tbody > tr > td {padding:0 0!important;}
+	.stb-cell-wrap > tbody > tr > td.stb-text-box {padding:0 10px!important;}
+	.stb-left-cell > div.stb-text-box {padding:5px 10px!important;}
+    .stb-right-cell > div.stb-text-box {padding:5px 10px!important;}
+	.stb-container {width: 100%!important}
+}
+</style>
+</head>
+<body>
+<table class="stb-container" cellpadding="0" cellspacing="0" align="center" style="margin: 0px auto; width:632px; max-width: 632px; border-width: 0px; background: #ffffff;border: 1px solid #eeeeee;">
+<tbody>
+<tr style="margin: 0;padding:0;">
+	<td style="width: 100%; max-width: 630px; margin: 0 auto; position: relative; border-spacing: 0; clear: both; border-collapse: separate;padding:0;overflow:hidden;_width:620px;">
+		<div style="height: 0px; max-height: 0px; border-width: 0px; border-color: initial; border-image: initial; visibility: hidden; line-height: 0px; font-size: 0px; overflow: hidden;display:none;">
+			 IKEA Goyang
+		</div>
+		<table class="stb-block" border="0" cellpadding="0" cellspacing="0" style="overflow: hidden; margin: 0px auto; padding: 0px; width:100%;max-width: 630px; clear: both; background: none;border:0;" width="100%">
+		<tbody>
+		<tr>
+			<td style="padding: 15px 0 15px 0; border-width: 0px;">
+				<table class="stb-cell-wrap" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 5px;" width="100%">
+				<tbody>
+				<tr>
+					<td style="padding: 0px 10px;" width="100%">
+						<div style="text-align: left;mso-line-height-rule: exactly;line-height:1.8;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;font-size:12px;font-family: AppleSDGothic, apple sd gothic neo, noto sans korean, noto sans korean regular, noto sans cjk kr, noto sans cjk, nanum gothic, malgun gothic, dotum, arial, helvetica, MS Gothic, sans-serif!important;">
+							<div style="text-align: center;">
+								<a href="https://stib.ee/3tM1" target="_blank" style="text-decoration: none; color: rgb(85, 85, 85);">Click here if you can not see the image</a>.
+							</div>
+						</div>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+		<table class="stb-block" border="0" cellpadding="0" cellspacing="0" style="overflow: hidden; margin: 0px auto; padding: 0px; width:100%;max-width: 630px; clear: both; background: #ffffff; border:0;" width="100%;">
+		<tbody>
+		<tr>
+			<td style="padding: 5px 0 15px 0; line-height: 1.8; border-width: 0px;">
+				<table class="stb-cell-wrap" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 5px;table-layout:fixed" width="100%">
+				<tbody>
+				<tr>
+					<td style="padding: 0px 10px;" width="100%">
+						<div>
+							<p style="text-align: justify; margin: 0px;width:100%">
+								<img alt="" src="https://s3.ap-northeast-2.amazonaws.com/img.stibee.com/11705_1541571841.jpg" style="width: 100%; display: inline; vertical-align: middle; max-width: 100%; border-width: 0px; border-color: initial; border-image: initial; text-align: justify;" width="610">
+							</p>
+						</div>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+		<table class="stb-block" border="0" cellpadding="0" cellspacing="0" style="overflow: hidden; margin: 0px auto; padding: 0px; width:100%;max-width: 630px; clear: both; background: none;border:0;" width="100%">
+		<tbody>
+		<tr>
+			<td style="padding: 20px 0 5px 0;line-height: 1.8; border-width: 0px;">
+				<table class="stb-cell-wrap" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 0;" width="100%">
+				<tbody>
+				<tr>
+					<td style="height: 1px; background: none; padding: 0px; border-top-width:1px;border-top-style:dashed;border-top-color:#999;" "="">
+					</td>
+				</tr>
+				</tbody>
+				</table>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+		<table class="stb-block" border="0" cellpadding="0" cellspacing="0" style="overflow: hidden; margin: 0px auto; padding: 0px; max-width: 630px; clear: both;background: none;border:0;" width="100%">
+		<tbody>
+		<tr>
+			<td style="padding: 15px 0 15px 0; text-align: left; line-height: 1.8; border-width: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+				<table class="stb-cell-wrap" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 5px;border-collapse: collapse;;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;table-layout:fixed" width="100%">
+				<tbody>
+				<tr>
+					<td style="text-align: center; overflow: hidden; clear: both;padding: 0 5px;">
+						<table class="stb-left-cell" border="0" cellpadding="0" cellspacing="0" style=" width: 305px;margin:0;vertical-align: top;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" width="305">
+						<tbody>
+						<tr>
+							<td style="padding: 5px 10px;text-align: justify; margin: 0px;width:100%">
+								<img alt="" src="https://s3.ap-northeast-2.amazonaws.com/img.stibee.com/11705_1541571864.jpg" style="width: 100%; display: inline; vertical-align: middle; max-width: 100%; border-width: 0px; border-color: initial; border-image: initial; text-align: justify;" width="285">
+							</td>
+						</tr>
+						</tbody>
+						</table>
+						<table class="stb-right-cell" border="0" cellpadding="0" cellspacing="0" style=" width: 305px;margin:0;vertical-align: top;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="right" width="305">
+						<tbody>
+						<tr>
+							<td style="padding: 5px 10px;text-align: justify; margin: 0px;width:100%">
+								<img alt="" src="https://s3.ap-northeast-2.amazonaws.com/img.stibee.com/11705_1541571868.jpg" style="width: 100%; display: inline; vertical-align: middle; max-width: 100%; border-width: 0px; border-color: initial; border-image: initial; text-align: justify;" width="285">
+							</td>
+						</tr>
+						</tbody>
+						</table>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+		<table class="stb-block" border="0" cellpadding="0" cellspacing="0" style="overflow: hidden; margin: 0px auto; padding: 0px; max-width: 630px; clear: both;background: none;border:0;" width="100%">
+		<tbody>
+		<tr>
+			<td style="padding: 15px 0 15px 0; text-align: left; line-height: 1.8; border-width: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+				<table class="stb-cell-wrap" border="0" cellpadding="0" cellspacing="0" style="padding: 0px 5px;border-collapse: collapse;;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;table-layout:fixed" width="100%">
+				<tbody>
+				<tr>
+					<td style="text-align: center; overflow: hidden; clear: both;padding: 0 5px;">
+						<table class="stb-left-cell" border="0" cellpadding="0" cellspacing="0" style=" width: 305px;margin:0;vertical-align: top;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" width="305">
+						<tbody>
+						<tr>
+							<td style="padding: 5px 10px;text-align: justify; margin: 0px;width:100%">
+								<img alt="" src="https://s3.ap-northeast-2.amazonaws.com/img.stibee.com/11705_1541571891.jpg" style="width: 100%; display: inline; vertical-align: middle; max-width: 100%; border-width: 0px; border-color: initial; border-image: initial; text-align: justify;" width="285">
+							</td>
+						</tr>
+						</tbody>
+						</table>
+						<table class="stb-right-cell" border="0" cellpadding="0" cellspacing="0" style=" width: 305px;margin:0;vertical-align: top;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="right" width="305">
+						<tbody>
+						<tr>
+							<td style="padding: 5px 10px;text-align: justify; margin: 0px;width:100%">
+								<img alt="" src="https://s3.ap-northeast-2.amazonaws.com/img.stibee.com/11705_1541571894.jpg" style="width: 100%; display: inline; vertical-align: middle; max-width: 100%; border-width: 0px; border-color: initial; border-image: initial; text-align: justify;" width="285">
+							</td>
+						</tr>
+						</tbody>
+						</table>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+		<table class="stb-block" border="0" cellpadding="0" cellspacing="0" style="overflow: hidden; margin: 0px auto; padding: 0px 15px; max-width: 630px; clear: both;background: #ffffff;border:0;" width="100%">
+		<tbody>
+		<tr>
+			<td style="padding: 5px 0 20px 0; text-align: center; line-height: 1.8; border: 0px;" width="100%">
+				<table class="stb-cell-wrap-cta" border="0" cellpadding="0" cellspacing="0" width="" style="border-collapse: separate !important;background: #ffcb08;border-radius: 50px; border:0; mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0 auto;table-layout:fixed" align="center">
+				<tbody>
+				<tr>
+					<td style="padding: 12px 20px 10px;" align="center">
+						<a href="http://www.ikea.com/kr/ko/Local_homepage/themed_offer/winter_2018.html" style="font-size: 14px; display: block; color: #000000; background: #ffcb08; border-radius: 50px; text-decoration: none; outline: 0px; font-family: AppleSDGothic, apple sd gothic neo, noto sans korean, noto sans korean regular, noto sans cjk kr, noto sans cjk, nanum gothic, malgun gothic, dotum, arial, helvetica, MS Gothic, sans-serif;text-align: center;_display:inline" target="_blank">
+						Click here for more 2018 winter collection ➔&nbsp; </a>
+					</td>
+				</tr>
+				</tbody>
+				</table>
+			</td>
+		</tr>
+		</tbody>
+		</table>
+	</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
